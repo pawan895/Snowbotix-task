@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <div className='bg-gray-800 h-screen flex flex-col items-center justify-center'>
-        <div className='flex flex-col m-2 p-4 py-12 items-center justify-center border border-gray-600 shadow-xl rounded-xl'>
+        <div className='flex flex-col m-2 p-4 py-12 items-center justify-center border border-gray-600 shadow-xl rounded-xl hover:bg-gray-700 cursor-pointer'>
           <header className='text-gray-200 font-bold text-4xl'>
             Snowbotix - app
           </header>
